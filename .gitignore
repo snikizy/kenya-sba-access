@@ -1,0 +1,29 @@
+# ---- DHS data: NEVER commit (DHS terms of use forbid redistribution) ----
+data/
+*.DTA
+*.dta
+*.DCT
+*.DO
+*.FRQ
+*.FRW
+*.MAP
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+
+# ---- Other data and derived files that contain cluster-level information ----
+*.rds
+*.RData
+*.rda
+*.tif
+
+# ---- R and RStudio housekeeping ----
+.Rproj.user/
+.Rhistory
+.Ruserdata
+.RData
+.RData*

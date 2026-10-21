@@ -1,0 +1,5 @@
+"model","DIC","WAIC"
+"M1 non-spatial",3931,3939.7
+"M2 cluster effect",3105.4,3115.4
+"M3 spatial",3121.7,3180.7
+"M4 spatial + cluster",3074.1,3081.7

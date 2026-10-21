@@ -1,0 +1,7 @@
+"model","parameter","mean","X0.025quant","X0.975quant"
+"M4","Range for s",142.464,90.109,217.395
+"M4","Stdev for s",0.847,0.674,1.051
+"M4","Precision for id",1.719,1.194,2.397
+"M5","Range for s",139.622,95.571,198.508
+"M5","Stdev for s",1.199,0.985,1.446
+"M5","Precision for id",1.276,0.911,1.738
